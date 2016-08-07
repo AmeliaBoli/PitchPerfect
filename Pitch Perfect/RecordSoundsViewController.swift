@@ -83,6 +83,7 @@ class RecordSoundsViewController: UIViewController, AVAudioRecorderDelegate {
         do {
             try audioSession.setActive(false)
         } catch {
+            print("Could not inactivate the audio session")
         }
     }
 }

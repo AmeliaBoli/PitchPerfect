@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		941DD7F71C9A36D9002767BF /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 941DD7F61C9A36D9002767BF /* PlaySoundsViewController.swift */; };
-		941DD7FB1C9B1FE4002767BF /* movie_quote.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 941DD7FA1C9B1FE4002767BF /* movie_quote.mp3 */; };
 		941DD7FD1C9C82F2002767BF /* Globals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 941DD7FC1C9C82F2002767BF /* Globals.swift */; };
 		941DD7FF1C9F9D6D002767BF /* RecordedAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 941DD7FE1C9F9D6D002767BF /* RecordedAudio.swift */; };
 		94E26F131C9A208D000AEAFE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E26F121C9A208D000AEAFE /* AppDelegate.swift */; };
@@ -39,7 +38,6 @@
 
 /* Begin PBXFileReference section */
 		941DD7F61C9A36D9002767BF /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
-		941DD7FA1C9B1FE4002767BF /* movie_quote.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = movie_quote.mp3; path = "../../Resources/Pitch Perfect/movie_quote.mp3"; sourceTree = "<group>"; };
 		941DD7FC1C9C82F2002767BF /* Globals.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Globals.swift; sourceTree = "<group>"; };
 		941DD7FE1C9F9D6D002767BF /* RecordedAudio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordedAudio.swift; sourceTree = "<group>"; };
 		94E26F0F1C9A208D000AEAFE /* Pitch Perfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pitch Perfect.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -114,7 +112,6 @@
 				94E26F191C9A208D000AEAFE /* Assets.xcassets */,
 				94E26F1B1C9A208D000AEAFE /* LaunchScreen.storyboard */,
 				94E26F1E1C9A208D000AEAFE /* Info.plist */,
-				941DD7FA1C9B1FE4002767BF /* movie_quote.mp3 */,
 			);
 			path = "Pitch Perfect";
 			sourceTree = "<group>";
@@ -244,7 +241,6 @@
 			files = (
 				94E26F1D1C9A208D000AEAFE /* LaunchScreen.storyboard in Resources */,
 				94E26F1A1C9A208D000AEAFE /* Assets.xcassets in Resources */,
-				941DD7FB1C9B1FE4002767BF /* movie_quote.mp3 in Resources */,
 				94E26F181C9A208D000AEAFE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
